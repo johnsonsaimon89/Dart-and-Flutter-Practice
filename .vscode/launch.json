@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dart DataType",
+            "request": "launch",
+            "type": "dart",
+            "program": "Dart/DataType.dart",
+            "cwd": "${workspaceFolder}",
+            "console": "terminal"
+        }
+    ]
+}
